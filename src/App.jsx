@@ -1,4 +1,5 @@
-import { useState } from "react";
+import React from "react";
+
 
 const truths = [
   "Ты когда-нибудь флиртовал(а) с преподавателем?",
